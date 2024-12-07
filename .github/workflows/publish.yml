@@ -3,7 +3,6 @@ name: Publish to npm
 on:
   push:
     branches:
-      - main  # Publica apenas na branch main (altere se necessário)
       - master
 
 jobs:
