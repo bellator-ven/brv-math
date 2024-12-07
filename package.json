@@ -1,0 +1,19 @@
+{
+  "name": "brv-math",
+  "version": "0.0.0",
+  "author": {
+    "email": "bellator-support@proton.me",
+    "name": "Bellator",
+    "url": "https://github.com/bellator-ven"
+  },
+  "description": "README.md",
+  "displayName": "SCSS Math lib",
+  "keywords": [
+    "SCSS", "SASS", "scss", "sass", "math", "sass:math"
+  ],
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bellator-ven/brv-math"
+  }
+}
